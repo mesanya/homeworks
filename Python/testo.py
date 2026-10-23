@@ -1,2 +1,2 @@
 a="testo12"
-print(a)
+print(a, 12+96)
